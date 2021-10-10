@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/iBitLabs/bitbtc-contracts.git"
   },
-  "author": "iBitLabs <iBitLabs@outlook.com>",
+  "author": "iBitLabs <iBitLabs@bitbtc.money>",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
