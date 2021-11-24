@@ -1,5 +1,4 @@
 require("@nomiclabs/hardhat-waffle")
-require('@openzeppelin/hardhat-upgrades')
 require("dotenv").config()
 
 const { MNEMONIC, INFURA_KEY } = process.env
