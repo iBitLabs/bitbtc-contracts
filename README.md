@@ -15,7 +15,6 @@ $ yarn build
 - Whitepaper: https://ibitlabs.medium.com/bitbtc-whitepaper-32b4aa53b00f
 - BitBTC: https://etherscan.io/address/0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97
 - BitANT: https://etherscan.io/address/0x15Ee120fD69BEc86C1d38502299af7366a41D1a6
-- Twitter: https://twitter.com/HelloBitANT
 - Founder: https://twitter.com/SatoshiNJunior
 - CoinGecko: https://www.coingecko.com/en/coins/bitant
 - CMC: https://coinmarketcap.com/currencies/bitant
