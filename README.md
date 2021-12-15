@@ -22,7 +22,7 @@ $ yarn build
 - BitANT Contract Address (Ethereum): [0x15Ee120fD69BEc86C1d38502299af7366a41D1a6](https://etherscan.io/token/0x15Ee120fD69BEc86C1d38502299af7366a41D1a6)
 - BitANT Contract Address (Optimism): [0x5029C236320b8f15eF0a657054B84d90bfBEDED3](https://optimistic.etherscan.io/token/0x5029C236320b8f15eF0a657054B84d90bfBEDED3)
 - Twitter (Founder): https://twitter.com/SatoshiNJunior
-- Audit (CertiK): https://www.certik.org/projects/bitant
+- Audit (Certik): https://www.certik.org/projects/bitant
 - CoinGecko: https://www.coingecko.com/en/coins/bitant
 - CMC: https://coinmarketcap.com/currencies/bitant
 - Coinbase: https://coinbase.com/price/bitant
