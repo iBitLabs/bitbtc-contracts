@@ -1,7 +1,7 @@
 ## Abstract
 Bitcoin is currently the only digital value reserve and real private property with global consensus. Bitcoin is the king of all coins. However, it is a pity that there is no a DeFi Killer Dapp based on BTC all over the world. To solve the problems of high price of BTC and slow transfer speed, We propose a solution to split BTC into BitBTC on the Ethereum through smart contracts, that is, 1BTC = 1 million BitBTC. BitBTC has faster transfer speed, lower transfer fees, more suitable for micropayment, more energy saving and more convenient participation in DeFi. BitBTC makes it easier for BTC to buy everything!
 
-BitANT is a platform MEME token. Adhere to DAO philosophy. The team does not own any tokens, all tokens are allocated to the community.Community autonomy.The exchange fee is mainly used to repurchase BitANT.
+BitANT is a platform MEME token. Adhere to DAO philosophy. The team does not own any tokens, all tokens are allocated to the community. Community autonomy.The exchange fee is mainly used to repurchase BitANT.
 
 ## Compile
 
@@ -19,6 +19,8 @@ $ yarn build
 - Whitepaper: https://ibitlabs.medium.com/bitbtc-whitepaper-32b4aa53b00f
 - BitBTC Contract Address (Ethereum): [0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97](https://etherscan.io/token/0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97)
 - BitBTC Contract Address (Optimism): [0xc98B98d17435AA00830c87eA02474C5007E1f272](https://optimistic.etherscan.io/token/0xc98B98d17435AA00830c87eA02474C5007E1f272)
+- BitBTC Contract Address (Polygon): [0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97](https://polygonscan.com/token/0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97)
+- BitBTC Contract Address (BSC): [0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97](https://bscscan.com/token/0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97)
 - BitANT Contract Address (Ethereum): [0x15Ee120fD69BEc86C1d38502299af7366a41D1a6](https://etherscan.io/token/0x15Ee120fD69BEc86C1d38502299af7366a41D1a6)
 - BitANT Contract Address (Optimism): [0x5029C236320b8f15eF0a657054B84d90bfBEDED3](https://optimistic.etherscan.io/token/0x5029C236320b8f15eF0a657054B84d90bfBEDED3)
 - Twitter (Founder): https://twitter.com/SatoshiNJunior
