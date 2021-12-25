@@ -118,14 +118,16 @@ contract FarmV2Controller is Context, IFarmV2, IFarmV2Controller {
         IERC20(farm.baseToken).safeTransferFrom(account, self, amount);
         uint256 actualAmount = IERC20(farm.baseToken).balanceOf(self) - oldBalance;
 
-        farm.totalStaked += actualAmount;
-        farm.accountStaked[account] += actualAmount;
-
         if(!farm.stakedAddresses[account]) {
             farm.unlockTimes[account] = Math.min(timestamp + farm.lockDuration, farm.endTime);
             farm.stakedAddresses[account] = true;
+        }
+        if(farm.accountStaked[account] == 0) {
             farm.numberOfAddresses++;
         }
+
+        farm.totalStaked += actualAmount;
+        farm.accountStaked[account] += actualAmount;
 
         emit Staked(farmId, actualAmount);
     }
