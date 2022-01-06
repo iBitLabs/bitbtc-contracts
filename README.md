@@ -17,12 +17,14 @@ $ yarn build
 
 - Website: https://bitbtc.money
 - Whitepaper: https://ibitlabs.medium.com/bitbtc-whitepaper-32b4aa53b00f
+- Grants: https://bitbtc.money/#/grants
 - BitBTC Contract Address (Ethereum): [0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97](https://etherscan.io/token/0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97)
 - BitBTC Contract Address (Optimism): [0xc98B98d17435AA00830c87eA02474C5007E1f272](https://optimistic.etherscan.io/token/0xc98B98d17435AA00830c87eA02474C5007E1f272)
 - BitBTC Contract Address (Polygon): [0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97](https://polygonscan.com/token/0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97)
 - BitBTC Contract Address (BSC): [0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97](https://bscscan.com/token/0x3C513dB8Bdc3806e4489d62C3d549A5Aaf6A4e97)
 - BitANT Contract Address (Ethereum): [0x15Ee120fD69BEc86C1d38502299af7366a41D1a6](https://etherscan.io/token/0x15Ee120fD69BEc86C1d38502299af7366a41D1a6)
 - BitANT Contract Address (Optimism): [0x5029C236320b8f15eF0a657054B84d90bfBEDED3](https://optimistic.etherscan.io/token/0x5029C236320b8f15eF0a657054B84d90bfBEDED3)
+- SATS Contract Address (Ethereum=Optimism=Polygon=BSC): [0xdb1CED09Bfc0AC9599c7921C70e08965d4588a27](https://etherscan.io/token/0xdb1CED09Bfc0AC9599c7921C70e08965d4588a27)
 - Twitter (Founder): https://twitter.com/SatoshiNJunior
 - Audit (Certik): https://www.certik.org/projects/bitant
 - CoinGecko: https://www.coingecko.com/en/coins/bitant
